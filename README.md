@@ -83,6 +83,8 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 [Add picture of your hand sketched wireframes in this section]
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEvGWQinbpm5G1HUY0XriOe%2FUCD-TF-Club%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D1HU8Wo0BuH7MjZx0-1" allowfullscreen></iframe>
 
+## Sprints
+Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
 ## Schema 
 
 [This section will be completed in Unit 9]
