@@ -34,9 +34,8 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 **Required Must-have Stories**
 
 * User can view weekly workouts
-* User can view club events
-* User can view club sponsors
-* User can access running routes
+* User can view running routes
+* User can view CoachAI tab
 
 
 **Optional Nice-to-have Stories**
@@ -49,34 +48,29 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 
 ### 2. Screen Archetypes
 
-- [ ] Home Screen
+- [X] Home Screen
 * User can view weekly workouts
 * User can push buttons to navigate to other screens
-- [ ] Running Screen
-* User can view warmup exercises and stretches
+- [X] CoachAI/Running Screen
+* User can view GPT model's break down of workout
+- [] Maps/Strava Screen
 * User can view popular running routes
-- [ ] Announcements Screen
-* User can view upcoming races and club events
-- [ ] Contact Screen
-* User can contact club officers
-
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
 * Workouts (Home Feed)
-* Running
-* Events
+* Coach
+* Routes
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home Screen
-*  => Strava
+- [X] Home Screen
+- [X] Coach AI
+   => ChatGPT
 - [ ] Running Screen
    => Apple Maps 
- [ ] Events Screen
-   => Instagram
 
 ## Wireframes
 
@@ -85,6 +79,7 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 
 ## Sprints
 Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
+Sprint 2: Created new coach tab in navigation bar, called OpenAI API network request and displayed data
 ## Schema 
 
 [This section will be completed in Unit 9]
