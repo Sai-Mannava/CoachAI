@@ -74,15 +74,15 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEvGWQinbpm5G1HUY0XriOe%2FUCD-TF-Club%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D1HU8Wo0BuH7MjZx0-1" allowfullscreen></iframe>
 
 ## Sprints
-Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
-Sprint 2: Created new coach tab in navigation bar, called OpenAI API network request and displayed data
-Sprint 3: Added the current mile time text field and added the feature to tailor workout pacing for CoachAI accordingly.
+* Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
+* Sprint 2: Created new coach tab in navigation bar, called OpenAI API network request and displayed data
+* Sprint 3: Added the current mile time text field and added the feature to tailor workout pacing for CoachAI accordingly.
 
 ### Models
 
-Model 1: [Guide]](https://media.giphy.com/media/CjSKQHzOmBdEpAkDzt/giphy.gif)
-Model 2: [Guide]](https://media.giphy.com/media/BOq4J70z8JiBJjIzXn/giphy.gif)
-Model 3: [Guide]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdnY2ZqMzR2dTMzMTRhbGI0aGIzMW9xNGdwdDhwYjJ3amF6amk4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4KZGkZ7X3u4tOxM8W/giphy.gif)
+* Model 1: [Guide]](https://media.giphy.com/media/CjSKQHzOmBdEpAkDzt/giphy.gif)
+* Model 2: [Guide]](https://media.giphy.com/media/BOq4J70z8JiBJjIzXn/giphy.gif)
+* Model 3: [Guide]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdnY2ZqMzR2dTMzMTRhbGI0aGIzMW9xNGdwdDhwYjJ3amF6amk4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4KZGkZ7X3u4tOxM8W/giphy.gif)
 ### Networking
 
 - Open AI's GPT3 Turbo API request
