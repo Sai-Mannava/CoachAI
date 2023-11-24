@@ -34,7 +34,7 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 **Required Must-have Stories**
 
 * User can view weekly workouts
-* User can view running routes
+* User can enter current mile time
 * User can view CoachAI tab
 
 
@@ -42,7 +42,7 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 
 * User can see photo gallery of club's activities
 * User can communicate to club officers
-* User can create and modify weekly workouts
+* User can modify weekly workouts
 * User can post new announcements 
 * User can billboard club fundraisers
 
@@ -52,25 +52,21 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 * User can view weekly workouts
 * User can push buttons to navigate to other screens
 - [X] CoachAI/Running Screen
+* User can enter current mile time and tailor workout pacing
 * User can view GPT model's break down of workout
-- [] Maps/Strava Screen
-* User can view popular running routes
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
 * Workouts (Home Feed)
-* Coach
-* Routes
+* CoachAI
 
 **Flow Navigation** (Screen to Screen)
 
 - [X] Home Screen
 - [X] Coach AI
    => ChatGPT
-- [ ] Running Screen
-   => Apple Maps 
 
 ## Wireframes
 
@@ -80,6 +76,7 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 ## Sprints
 Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
 Sprint 2: Created new coach tab in navigation bar, called OpenAI API network request and displayed data
+Sprint 3: Added the current mile time text field and added the feature to tailor workout pacing for CoachAI accordingly.
 ## Schema 
 
 [This section will be completed in Unit 9]
