@@ -76,7 +76,7 @@ Implements home screen where weekly workouts can be seen as well as popular Davi
 ## Sprints
 * Sprint 1: Brainstorm ideas, implement wireframes, create beginning screen
 * Sprint 2: Created new coach tab in navigation bar, called OpenAI API network request and displayed data
-* Sprint 3: Added the current mile time text field and added the feature to tailor workout pacing for CoachAI accordingly.
+* Sprint 3: Added the current mile time text field, added the feature to tailor workout pacing for CoachAI accordingly, and modified app design.
 
 ### Models
 
